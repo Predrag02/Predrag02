@@ -51,4 +51,5 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Projects
 - Active Directory Lab
-- Java Spring boot
+- Student management system
+- Instagram clone app
