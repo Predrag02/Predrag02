@@ -20,6 +20,8 @@ My journey in information technology has led me to develop a passion for cyberse
 | HTML,CSS,JAVASCRIPT     |<a href="https://github.com/Predrag02/Azure-web-site">Azure web site</a>|
 | Java     |<a href="https://github.com/Predrag02/Azure-web-site">Azure web site</a>|
 | C#    |<a href="https://github.com/Predrag02/Traveling-agency">Traveling Agency</a>|
+| Python    |<a href="https://github.com/Predrag02/Traveling-agency">Mininet-Pox SDN Project</a>|
+| Firewall,IPS    |<a href="https://github.com/Predrag02/Traveling-agency">Mininet-Pox SDN Project</a>|
 
 
 ## Tools
@@ -54,6 +56,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Projects
 - Active Directory Lab
+- Mininet-Pox SDN Project
 - Student management system 
 - Instagram clone app
 - Traveling Agency app
