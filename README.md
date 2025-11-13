@@ -3,11 +3,11 @@
 
 
 
-I am a fourth-year Information Technology student with a profound interest in technology and a dedication to solving complex problems.
+I am a graduate in Information Technology with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 
